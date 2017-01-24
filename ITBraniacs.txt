@@ -1,0 +1,48 @@
+﻿Smart home:
+* Lighting based on user location (within the house)
+* Door Lock status detection with notifications if user leaves house without locking
+* Outside lighting based on proximity to the house (drunk drive me home light)
+* Heating & cooling based on user location (including holiday low power)
+* Computer shutdown / startup or ambiental music startup / shutdown based on user location (in house & outside)
+* Custom object status notification based on user location (ironing left  in power plug after user leaves home)
+
+
+
+
+Important technologies:
+* GPS / A-GPS 
+* GeoLocation 
+* Internet Weather (temperature/humidity/etc)
+* Proximity sensors
+* Temperature sensors
+* High fidelity distance sensors or contact detection (?)
+* Raspberry PI - Central logic box
+* Mobile app technologies (iOS vs Android vs Mobile Web)
+* Cell phone tower detection (increased positioning quality)
+* Bluetooth detection (increased positioning quality)
+* Wifi network SSID detection (increased positioning quality)
+* Python vs Php vs Javascript (?) - Study later
+
+
+
+
+8 December 2016
+Topics to research:
+* Git
+   * Create BitBucket account
+   * Join ITBraniacs group
+   * Create test project
+      * Create project
+      * Clone project locally
+      * Make changes
+      * Commit (find from documentation)
+      * Push code remote
+      * Delete local copy
+      * Close in different folder
+* Markdown format
+* A-GPS / GPS  and differences 
+* API - what is it?
+* Cell-phone towers and how to use them to track your position
+* Wifi Network SSID detection - How to use SSID to get a possible user location (google does it) - public API?
+* Raspberry PI - How to connect external sensors
+* How bluetooth works
